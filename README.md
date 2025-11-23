@@ -86,7 +86,20 @@ Sponsorship helps me keep improving the extension, adding new features, and resp
 If **rep+ saved you time** during testing, development, or bug bounty work, please consider supporting the project.  
 **Every dollar helps. ❤️**
 
-[![Sponsor](https://img.shields.io/badge/Sponsor-💖-ea4aaa?style=for-the-badge)](https://github.com/sponsors/bscript)
+<p align="center">
+  <strong>Maintained by</strong><br><br>
+
+  <a href="https://github.com/bscript">
+    <img src="https://avatars.githubusercontent.com/u/43368124?v=4" width="60" style="border-radius:50%;" alt="Maintainer"/>
+  </a>
+
+  <p align="center">
+    <em>No sponsors yet — your profile will appear here when you support rep+ 💖</em><br><br>
+    <a href="https://github.com/sponsors/bscript">
+      <img src="https://img.shields.io/badge/Become%20a%20Sponsor-%F0%9F%92%96-ea4aaa?style=for-the-badge">
+    </a>
+  </p>
+</p>
 
 
 
