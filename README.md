@@ -136,8 +136,17 @@ If **rep+ saved you time** during testing, development, or bug bounty work, plea
   <a href="https://github.com/eduquintanilha">
     <img src="https://avatars.githubusercontent.com/u/14018253?s=60" width="60" style="border-radius:50%;" alt="Sponsor"/>
   </a>
+  &nbsp;&nbsp;
    <a href="https://github.com/Snownull">
     <img src="https://avatars.githubusercontent.com/u/190537179?s=60" width="60" style="border-radius:50%;" alt="Sponsor"/>
+  </a>
+   &nbsp;&nbsp;
+   <a href="https://github.com/assem-ch">
+    <img src="https://avatars.githubusercontent.com/u/315228?s=60" width="60" style="border-radius:50%;" alt="Sponsor"/>
+  </a>
+   &nbsp;&nbsp;
+   <a href="https://github.com/MrTurvey">
+    <img src="https://avatars.githubusercontent.com/u/5578593?s=60" width="60" style="border-radius:50%;" alt="Sponsor"/>
   </a>
 </p>
 
